@@ -4,11 +4,11 @@ import { GatsbyImage } from "gatsby-plugin-image";
 
 export default function FullWidthImage(props) {
   const {
-    height = 400,
+    height = 600,
     img,
     title,
     subheading,
-    imgPosition = "top left",
+    imgPosition = "50% 45%",
   } = props;
 
   return (
@@ -59,8 +59,12 @@ export default function FullWidthImage(props) {
               gridArea: "1/1",
               position: "relative",
               // This centers the other elements inside the hero component
-              placeItems: "center",
-              display: "grid",
+              alignItems: "left",
+              justifyContent: "space-around",
+              height: "150px",
+              width: "500px",
+              lineHeight: "1",
+              flexDirection: "column",
             }}
           >
             {/* Any content here will be centered in the component */}
@@ -69,8 +73,8 @@ export default function FullWidthImage(props) {
                 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
                 style={{
                   boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    "rgb(140, 185, 0) 0.5rem 0px 0px, rgb(140, 185, 0) -0.5rem 0px 0px",
+                  backgroundColor: "rgb(180, 195, 0)",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
@@ -84,8 +88,8 @@ export default function FullWidthImage(props) {
                 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
                 style={{
                   boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    "rgb(140, 185, 0) 0.5rem 0px 0px, rgb(140, 185, 0) -0.5rem 0px 0px",
+                  backgroundColor: "rgb(180, 195, 0)",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25rem",

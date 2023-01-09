@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "ツイ盆展 ちょっと新しくとても楽しい盆栽展",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Twitter盆栽展 だれでも気軽に出展できるツイ盆展の公式ウェブサイトです",
+    siteUrl: "https://twibon.net",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -12,6 +13,12 @@ module.exports = {
         sassOptions: {
           indentedSyntax: true,
         },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "UA-118451379-2",
       },
     },
     {
@@ -50,7 +57,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 800,
             },
           },
           {
@@ -59,13 +66,13 @@ module.exports = {
               destinationDir: "static",
             },
           },
+          {
+            resolve: "gatsby-remark-embed-markdown",
+            options: {
+              directory: `${__dirname}/src/embed/`,
+            },
+          },
         ],
-      },
-    },
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     {
@@ -75,6 +82,6 @@ module.exports = {
         purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    "gatsby-plugin-twitter", // make sure to keep it last in the array
   ],
 };

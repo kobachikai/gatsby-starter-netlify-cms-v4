@@ -1,70 +1,34 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: ツイ盆展
+image: /img/fuji-202004.jpg
+heading: 簡単な4つの出展ルール
+subheading: ちょっと新しくとても楽しい盆栽展
 mainpitch:
-  title: Why Kaldi
+  title: ツイ盆展とは
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    少し敷居の高いイメージが先行しがちな盆栽ですが、“だれでも気軽に出展できる”、そんな敷居のひく〜い展示会を目指してできたオンライン盆栽展、それが「ツイ盆展」です。
+
+description: >
+  ツイ盆展に出展する際のルールは以下の４つだけです。
 intro:
+  heading: さぁあなたも出展しよう
+  description: >
+    盆栽を飾ったことのある方から飾ったことのない方まで、盆栽を始めたばかりの初心者から樹齢何十年という木を育てているベテランさんまで、誰でも出展して誰でも楽しめる盆栽展です。
+    出展にはTwitterのアカウントが必要です。Twitterのアカウントを取得したら、さぁ出展しましょう。
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/rule1.jpg
+      alt: rule 1
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        自分の盆栽の写真を投稿してください。過去の作品でも構いません。お店の商品や他者の盆栽の投稿はお控えください。
+    - image: /img/rule2.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        盆栽とは何か、これはとても難しいテーマですが、難しい定義は抜きにして、盆栽もしくはそれを目指して作っている木や草ものなどを飾って投稿してください。
+    - image: /img/rule3.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        ハッシュタグをつけて投稿してください。
+        本文中に #ツイ盆展 と記載していただくだけでオッケーです。#は半角で、ハッシュタグの前後には改行またはスペースが必要です。
+    - image: /img/rule4.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+        作品の説明文の記載をお願いします。樹種やご自身で考えた作品タイトル、工夫点など、補足説明などがあるとみる人がより楽しめます。
 ---

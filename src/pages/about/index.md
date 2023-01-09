@@ -1,19 +1,54 @@
 ---
-templateKey: 'about-page'
+title: ツイ盆展について
 path: /about
-title: About our values
+image: /img/fuji-202004.jpg
+templateKey: 'about-page'
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+"だれでも気軽に出展できる"、そんな展示会を目指して作られたオンライン盆栽展が「ツイ盆展」です。
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+盆栽を飾ったことのある方から飾ったことのない方まで、盆栽を始めたばかりの初心者から樹齢何十年という木を育てているベテランさんまで、立派な棚飾りを持っている人からおなべのフタしか持っていない人まで、誰でも出展して誰でも楽しめる盆栽展です。
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+ツイ盆展に出展したら、また気になる盆栽が出展されていたら、是非Twitterで出展者さんと交流してみましょう。
+ぜひ、この機会にtwitterでこの盆栽コミュニティを一緒に育てませんか。
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+## 運営者
+ツイ盆展は以下３名の有志によって運営されています。
+
+---
+
+**fujimax -盆栽HACKS-** 
+<a href="https://twitter.com/fujimax6" target="_blank">@fujimax6</a>
+<a href="https://bonsaihacks.tk" target="_blank">HP</a>
+
+![fujimax6.png](/img/fujimax6.png)
+
+ちいさな自宅の庭で３００鉢の小品盆栽/ミニ盆栽を育てる盆栽歴３年目です。
+近所の盆栽会に所属して１年が経つ頃ようやく自分でも席飾りを出展し、盆栽を育てる楽しさだけでなく、飾る楽しさ見せる楽しさに気付きました。
+Twitter上で盆栽を趣味とする人たちとつながり、Twitter上でも気軽に盆栽を飾るようなチャンスがあればと考えました。
+これからも楽しみながら、この盆栽好きの輪をもっと広げていくようなことをやっていければと思います。
+
+---
+
+**百万@盆栽エッセイ漫画連載中** 
+<a href="https://twitter.com/hyakumanga" target="_blank">@hyakumanga</a>
+<a href="http://hyakumanga.com" target="_blank">HP</a>
+
+![hyakuman.png](/img/hyakuman.png)
+
+大宮盆栽村在住の漫画家。
+愛好家としてはほぼ初心者ですが、盆栽に出会った頃から盆栽の魅力をより多くの人に広めたいという想いが強く『盆栽漫画家』を名乗りSNSなどで活動しています。自宅マンションのベランダで30鉢程度育成中。
+現在盆栽専門誌『盆栽世界』にて、エッセイ漫画『そうして今日も水をやる』を連載しています。
+漫画や今回のような企画など、ハードル低く盆栽を広めていきたいです！
+
+---
+
+**ichiya/falz** 
+<a href="https://twitter.com/falz_jp" target="_blank">@falz_jp</a>
+<a href="https://www.youtube.com/c/ichiyabonsai">youtube</a>
+
+![ichiya.png](/img/ichiya.png)
+
+東京都在住、マンションのベランダ盆栽愛好家です。妻の勧めで盆栽を始めてもう５年、２０１８年からは豊梢園の豊樹会に入りさらなるレベルアップを目指してます。盆栽を実生や苗から育てるのが好きですぐに展示出来るようなレベルの樹はあまりありませんが、日々ツイートする盆栽の変化を皆さんも一緒に楽しんでいただければと思い頑張ってます。
+
