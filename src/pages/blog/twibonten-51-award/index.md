@@ -9,7 +9,7 @@ featuredpost: false
 author: fujimax6
 published: true
 ---
-第50回ツイ盆展への多数のご出展どうもありがとうございました。
+第51回ツイ盆展への多数のご出展どうもありがとうございました。
 
 今回はテーマフリーでした。
 
