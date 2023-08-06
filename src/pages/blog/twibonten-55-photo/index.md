@@ -4,7 +4,7 @@ templateKey: blog-post
 title: 第55回ツイ盆展作品集
 tags:
  - collection
-featuredimage: fuj-55.jpg
+featuredimage: fuji-55.jpg
 featuredpost: false
 author: fujimax6
 ---
