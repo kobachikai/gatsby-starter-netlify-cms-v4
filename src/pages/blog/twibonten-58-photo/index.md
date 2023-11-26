@@ -4,7 +4,7 @@ templateKey: blog-post
 title: 第58回ツイ盆展作品集
 tags:
  - collection
-featuredimage: hyaku-56.jpg
+featuredimage: fuji-58.jpg
 featuredpost: false
 author: fujimax6
 ---

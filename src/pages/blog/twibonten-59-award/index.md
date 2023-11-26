@@ -4,7 +4,7 @@ templateKey: blog-post
 title: 第59回ツイ盆展受賞作品発表
 tags:
  - collection
-featuredimage: hyaku-56.jpg
+featuredimage: hyaku-59.jpg
 featuredpost: false
 author: fujimax6
 published: true

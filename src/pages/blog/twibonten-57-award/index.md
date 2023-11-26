@@ -4,7 +4,7 @@ templateKey: blog-post
 title: 第57回ツイ盆展受賞作品発表
 tags:
  - collection
-featuredimage: hyaku-56.jpg
+featuredimage: ichi-57.jpg
 featuredpost: false
 author: fujimax6
 published: true
