@@ -50,6 +50,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          "@weknow/gatsby-remark-twitter",
           'gatsby-remark-relative-images',
           {
             resolve: "gatsby-remark-images",
