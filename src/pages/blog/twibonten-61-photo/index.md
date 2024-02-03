@@ -1,0 +1,201 @@
+---
+date: 2023-12-16T00:00:00.000Z
+templateKey: blog-post
+title: 第61回ツイ盆展作品集
+tags:
+ - collection
+featuredimage: fuji-61.jpg
+featuredpost: false
+author: fujimax6
+---
+第61回ツイ盆展始まりました。
+12月16日から24日までが投稿期間となっています。
+
+今回のテーマはフリーです。
+沢山の投稿をお待ちしてます！
+
+以下は、今回の出展作品集です。
+沢山のご出展、またRTでの投票、お待ちしております！
+
+
+---
+
+### Bonvoya @Bonvoya6 さんの作品 
+<center>
+
+https://twitter.com/Bonvoya6/status/1735817533050212475
+</center>
+
+---
+### 百万@みなかみ移住２年目 @hyakumanga さんの作品 
+<center>
+
+https://twitter.com/hyakumanga/status/1735817846633173004
+</center>
+
+---
+### fujimax -盆栽HACKS- @fujimax6 さんの作品 
+<center>
+
+https://twitter.com/fujimax6/status/1735817857202815239
+</center>
+
+---
+### 弌屋/盆栽×鉢×猫𓃠 @ichiya_jp さんの作品 
+<center>
+
+https://twitter.com/ichiya_jp/status/1735818099402940842
+</center>
+
+---
+### たけむ～ 。 @223_hide さんの作品 
+<center>
+
+https://twitter.com/223_hide/status/1735836189725442308
+</center>
+
+---
+### Wa！盆@soboku（雇われ店長もどき） @Wa79207727 さんの作品 
+<center>
+
+https://twitter.com/Wa79207727/status/1735909319345119576
+</center>
+
+---
+### 凡盆栽人 @BonBonsaiJin さんの作品 
+<center>
+
+https://twitter.com/BonBonsaiJin/status/1736157043021778983
+</center>
+
+---
+### m.k @toro0629 さんの作品 
+<center>
+
+https://twitter.com/toro0629/status/1736167224174633423
+</center>
+
+---
+### めがし屋🔨 @IshGol さんの作品 
+<center>
+
+https://twitter.com/IshGol/status/1736181660243370472
+</center>
+
+---
+### みんみん(盆栽用) @minminminmin_m_ さんの作品 
+<center>
+
+https://twitter.com/minminminmin_m_/status/1736247901771444708
+</center>
+
+---
+### **akira** @akira_0_akira さんの作品 
+<center>
+
+https://twitter.com/akira_0_akira/status/1736274502949192100
+</center>
+
+---
+### sparrow @sparrow09001397 さんの作品 
+<center>
+
+https://twitter.com/sparrow09001397/status/1736296910422700036
+</center>
+
+---
+### まっしゅ。 @mash0839 さんの作品 
+<center>
+
+https://twitter.com/mash0839/status/1736361282843152582
+</center>
+
+---
+### 5ｃｍ盆栽 @5cm_bonsai さんの作品 
+<center>
+
+https://twitter.com/5cm_bonsai/status/1736719632923529359
+</center>
+
+---
+### yamasibon @yamasibonKIWA さんの作品 
+<center>
+
+https://twitter.com/yamasibonKIWA/status/1737020992978043366
+</center>
+
+---
+### 鶴岡小品盆栽会 @TsuruokaBonsai さんの作品 
+<center>
+
+https://twitter.com/TsuruokaBonsai/status/1737099944648151077
+</center>
+
+---
+### むーさん @7_buuormuu さんの作品 
+<center>
+
+https://twitter.com/7_buuormuu/status/1737814622357553415
+</center>
+
+---
+### ペロ @kakun22172217 さんの作品 
+<center>
+
+https://twitter.com/kakun22172217/status/1738080848338178232
+</center>
+
+---
+### あきち @akichix22 さんの作品 
+<center>
+
+https://twitter.com/akichix22/status/1738121577882120392
+</center>
+
+---
+### tshuku @tshuku8 さんの作品 
+<center>
+
+https://twitter.com/tshuku8/status/1738207850374344902
+</center>
+
+---
+### Shiroshitan @SYOHIN_BONSAI さんの作品 
+<center>
+
+https://twitter.com/SYOHIN_BONSAI/status/1738476087661973625
+</center>
+
+---
+### ˗ˏˋ Shino ˎˊ˗ @Shino_bonsai さんの作品 
+<center>
+
+https://twitter.com/Shino_bonsai/status/1738697377719197864
+</center>
+
+---
+### しーどりんぐ⭐️苗夫 @bonsai_seedling さんの作品 
+<center>
+
+https://twitter.com/bonsai_seedling/status/1738728025787924519
+</center>
+
+---
+### choke【剽軽の人】 @choke369 さんの作品 
+<center>
+
+https://twitter.com/choke369/status/1738817192052039961
+</center>
+
+---
+### つき @chicchi0716 さんの作品 
+<center>
+
+https://twitter.com/chicchi0716/status/1738929769805459802
+</center>
+
+---
+
+
+合計投稿数：25, 合計いいね数：1959, 合計RT数：180
+
