@@ -245,55 +245,6 @@ https://twitter.com/parujinrou/status/1750784223844389082
 </center>
 
 ---
-### @Of723kan さんの作品 
-<center>
-
-https://twitter.com/Of723kan/status/1750843294748454917
-</center>
-
----
-### @zuma888f さんの作品 
-<center>
-
-https://twitter.com/zuma888f/status/1751054519478403186
-</center>
-
----
-### @tmh602zk さんの作品 
-<center>
-
-https://twitter.com/tmh602zk/status/1751061014211420280
-</center>
-
----
-### @manuca0066 さんの作品 
-<center>
-
-https://twitter.com/manuca0066/status/1751256094985646286
-</center>
-
----
-### @univatsugi さんの作品 
-<center>
-
-https://twitter.com/univatsugi/status/1751381420722057588
-</center>
-
----
-### @bonsaiojisan さんの作品 
-<center>
-
-https://twitter.com/bonsaiojisan/status/1751393570895044746
-</center>
-
----
-### @wa3291658915722 さんの作品 
-<center>
-
-https://twitter.com/wa3291658915722/status/1751433077136707956
-</center>
-
----
 
 
 合計投稿数：46, 合計いいね数：4206, 合計RT数：452
