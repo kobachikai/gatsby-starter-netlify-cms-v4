@@ -45,14 +45,16 @@ intro:
 
 ![RT-rule](/img/RT-rule.jpg)
 
-## 審査員制度について
-第48回のツイ盆展より、RT数による表彰に加えて、審査員による表彰を開始します。
-![reviewer](/img/twibon-reviewer.jpg)
 
-運営メンバーだけでなく、ゲスト審査員にも登場してもらう予定です。
-![guest-reviewer](/img/twibon-guest-reviewer.jpg)
+## 賞品企画について
+2024年1月の第62回のツイ盆展より、年間の投稿作品数や年間の獲得RP数による賞品企画を開始します。
+![golden-rp](/img/golden-rp.jpg)
+![kaikin](/img/kaikin.jpg)
 
-## Instagram連携
+こちらの企画の詳細については[こちらの投稿](/blog/2024-01-18--twibon-golden-awards/)をご参照ください。
+
+
+## Instagram連携(現在停止中)
 ツイ盆展をより多くの方に知っていただくために、ツイ盆展への投稿作品をInstagramにも掲載いたします。
 Twitter上での投稿作品が、Instagram上の[ツイ盆展公式アカウント](https://www.instagram.com/twibonten/)に掲載されます。
 ツイ盆展へのご投稿は、このようにInstagramへの掲載にご同意のもと、よろしくお願いいたします。
