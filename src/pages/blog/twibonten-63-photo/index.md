@@ -214,12 +214,14 @@ https://twitter.com/toro0629/status/1759193102626300340
 https://twitter.com/ojb7qUZfjB0rtwM/status/1759378170581860860
 </center>
 
+<!--
 ---
 ### FB.RUNGER かつてドブと呼ばれていた男 @tmh602zk さんの作品 
 <center>
 
 https://twitter.com/tmh602zk/status/1759401888469180878
 </center>
+-->
 
 ---
 ### おじ様 @ojb7qUZfjB0rtwM さんの作品 
